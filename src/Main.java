@@ -17,6 +17,7 @@ public class Main {
            array[array.length - 1 - i]=testArray;
         }
 
+
         // Вывод перевернутого массива
         for (int i : array) {
             System.out.print(i + " ");
